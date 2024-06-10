@@ -19,7 +19,6 @@
 ## Övningar
 * [Animation Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-animation-bootcamp)
 * [Responsivitet-bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity)
-* [Planned Planthood](https://github.com/Lexicon-Frontend-2024/exercise-html-css-planned-planthood)
 
 ## Lektionsrepon
 *
