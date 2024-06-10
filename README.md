@@ -10,8 +10,13 @@
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
 * [Responsiva Media Queries](https://app.pluralsight.com/ilx/video-courses/clips/d07c4580-660e-4427-8972-3f7ea5874301)
+* [Transitioning Elements, CSS](https://app.pluralsight.com/ilx/video-courses/clips/d07c4580-660e-4427-8972-3f7ea5874301)
+* [Transforming Elements, CSS](https://app.pluralsight.com/ilx/video-courses/clips/ec13d446-d96c-40b6-9361-61c2c7fb95e1)
+* [Creating Animations, CSS](https://app.pluralsight.com/ilx/video-courses/clips/7fcfa281-2e8e-4f0e-ae16-4d24a500157f)
+* [Responsiva Media Queries](https://app.pluralsight.com/ilx/video-courses/clips/d07c4580-660e-4427-8972-3f7ea5874301)
 #### Video
 * [Scrimba HTML och CSS, forts.](https://scrimba.com/learn/htmlandcss)
+* [Animation Tutorial](https://www.youtube.com/watch?v=jgw82b5Y2MU)
 #### Läsning
 * [W3Schools Responsivitet (ignorera bootstrap)](https://www.w3schools.com/html/html_responsive.asp)
 
