@@ -2,9 +2,9 @@
 ###### HTML & CSS, vecka 4 av 5
 
 ## Mål för veckan
-1. Kunna göra små animationer, så som vid hover
-2. Kunna skapa formulär i HTML
-3. Kunna göra en hemsida responsiv med hjälp av media queries
+1. Kunna göra en hemsida responsiv med hjälp av media queries
+2. Kunna göra små animationer, så som vid hover
+3. Kunna skapa formulär i HTML
 ## Material
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
