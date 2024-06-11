@@ -22,9 +22,9 @@
 
 ## Övningar
 * Kolla [Responsiva Media Queries](https://app.pluralsight.com/ilx/video-courses/clips/d07c4580-660e-4427-8972-3f7ea5874301)
-* [Responsivitet-bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity)
+* [Responsivitet-bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity) Deadline torsdag
 * Kolla [Transitioning Elements, CSS](https://app.pluralsight.com/ilx/video-courses/e444e5bb-292c-4056-816c-a8ff91817b61/aecf4a2c-2295-43f4-b154-e345dc785d52/ddab6a1f-a0be-40b0-9a84-05e859ee8df3), [Transforming Elements, CSS](https://app.pluralsight.com/ilx/video-courses/clips/ec13d446-d96c-40b6-9361-61c2c7fb95e1), [Creating Animations, CSS](https://app.pluralsight.com/ilx/video-courses/clips/7fcfa281-2e8e-4f0e-ae16-4d24a500157f) och [Animation Tutorial](https://www.youtube.com/watch?v=jgw82b5Y2MU)
-* [Animation Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-animation-bootcamp)
+* [Animation Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-animation-bootcamp) Deadline måndag v.25
 
 ## Lektionsrepon
 * [HTML-formulär, 10 juni](https://github.com/Lexicon-Frontend-2024/lecture-10-june)
